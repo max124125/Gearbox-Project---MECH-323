@@ -1,4 +1,4 @@
-# Gearbox-Project--MECH-323
+# Gearbox Project MECH 323
 
 <p float="left">
   <img src="https://github.com/user-attachments/assets/29830a13-4e09-4622-9214-f9ae7bc0af48" width="400" />
