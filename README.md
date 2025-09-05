@@ -1,7 +1,7 @@
 # Gearbox-Project--MECH-323
 
 <p float="left">
-  <img src="https://github.com/user-attachments/assets/88bac8a1-3167-403d-b606-c0c264f192e4" width="420" />
+  <img src="https://github.com/user-attachments/assets/29830a13-4e09-4622-9214-f9ae7bc0af48" width="420" />
   <img src="https://github.com/user-attachments/assets/b7e8c426-75e9-49c3-a910-3626de6ceaaf" width="350" /> 
 </p>
 
