@@ -2,7 +2,7 @@
 
 <p float="left">
   <img src="https://github.com/user-attachments/assets/29830a13-4e09-4622-9214-f9ae7bc0af48" width="420" />
-  <img src="https://github.com/user-attachments/assets/b7e8c426-75e9-49c3-a910-3626de6ceaaf" width="420" /> 
+  <img src="https://github.com/user-attachments/assets/b7e8c426-75e9-49c3-a910-3626de6ceaaf" width="425" /> 
 </p>
 
 This project was done throughout the MECH 323 course, and had the goal of designing, assembling and 3D printing a gearbox for a small battery powered model car. 
